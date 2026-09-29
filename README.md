@@ -1,4 +1,4 @@
-This repository contains the simulation stack used by UAS@UCLA to test software. This is built on [Isaac Sim](https://docs.omniverse.nvidia.com/app_isaacsim/app_isaacsim/overview.html), [Pegasus Simulator](https://pegasussimulator.github.io/PegasusSimulator/) with fixed-wing UAV addtions by [Isaac UAV](https://github.com/AhmedZeer/isaac-uav).
+This repository contains the simulation stack used by UAS@UCLA to test software. This builds upon [Isaac Sim](https://docs.omniverse.nvidia.com/app_isaacsim/app_isaacsim/overview.html), [Pegasus Simulator](https://pegasussimulator.github.io/PegasusSimulator/) with fixed-wing UAV addtions by [Isaac UAV](https://github.com/AhmedZeer/isaac-uav).
 
 
 ## Developer Credits
